@@ -1,7 +1,3 @@
-![C++](https://img.shields.io/badge/c++->=11-blue)
-![Platform](https://img.shields.io/badge/platform-Window-lightgrey)
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 # SerialPortUtils
 
 A window based serial port library in c++.
